@@ -1,2 +1,2 @@
 # Simple-Personal-Portfolio
-Create Simple Personal Portfolio using HTML,CSS,JS.
+<img src="View.png">
